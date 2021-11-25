@@ -1,6 +1,8 @@
 # TFG Ayuda al diagnóstico de cáncer de colon mediante técnicas de aprendizaje automático
 
+
 Autor: José Javier Calvo Moratilla.
+
 Director:  Jon Ander , Gómez Adrian. 
 
 PAIP 2020 Challenge
