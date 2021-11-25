@@ -1,4 +1,16 @@
-# JJCM-TFG-2021
+# TFG Ayuda al diagnóstico de cáncer de colon mediante técnicas de aprendizaje automático
+
+Autor: José Javier Calvo Moratilla.
+Director:  Jon Ander , Gómez Adrian. 
+
+PAIP 2020 Challenge
+https://paip2020.grand-challenge.org/
+
+All rights reserved code: PRHLT Research Group.
+https://www.prhlt.upv.es/wp/
+
+Used Python wrapper for EDDL, the European Distributed Deep Learning library:
+https://github.com/deephealthproject/pyeddl
 
 [ES] Las listas de espera de los hospitales españoles durante la pandemia del virus SARSCoV-2 han aumentado considerablemente y han dificultado el diagnóstico temprano de enfermedades como el cáncer. Para incrementar el rendimiento del personal sanitario reduciendo la carga de trabajo se propone la utilización de algoritmos de aprendizaje automático para detectar células cancerígenas dentro del área colorrectal. Se emplea la arquitectura U-Net con diferentes configuraciones para segmentar el área de la imagen médica donde se detecta la patología, ayudando al personal sanitario en la tarea del diagnóstico de enfermedades. El máximo rendimiento obtenido ha sido con la configuración sigmoid 1b con un 0,802630 de IoU. Se demuestra que la arquitectura de red propuesta entrena correctamente con el conjunto de datos obteniendo un buen rendimiento.
 
