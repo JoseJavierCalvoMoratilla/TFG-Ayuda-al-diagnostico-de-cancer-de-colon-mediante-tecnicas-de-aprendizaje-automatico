@@ -5,8 +5,7 @@ Autor: José Javier Calvo Moratilla.
 
 Director:  Jon Ander , Gómez Adrian. 
 
-PAIP 2020 Challenge
-All rights reserved images:
+All rights reserved images: PAIP 2020 Challenge
 https://paip2020.grand-challenge.org/
 
 All rights reserved code: PRHLT Research Group.
